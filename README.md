@@ -35,3 +35,4 @@
   For writing and running the code, I used an IDE(vs code), a text editor with Python support 
 
 
+Task1 screenshot![image](https://github.com/user-attachments/assets/6d79b627-00b3-413e-b16b-33384efdadbc)
